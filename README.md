@@ -6,9 +6,9 @@ Based in Taiwan. Native Mandarin, Advanced English.
 ---
 
 ### 🔍 About Me
-I bring a decade of business operations experience grounded in a technical Management Information Systems background. Currently, as a Web3 Intelligence Analyst at Chainlabs.ai, I specialize in entity attribution for over 500 CeFi platforms. 
+I am currently a bilingual Web3 Intelligence Analyst. After a decade in business operations, I transitioned to Web3 to combat the rising wave of crypto fraud. 
 
-My transition into Web3 was driven by a personal mission to combat fraud. I leverage Python and "vibe coding" to develop automation tools, such as custom evidence-collection scripts, that make compliance workflows faster and smarter.
+I am self-taught in crypto crime investigation and leverage Python and vibe coding to develop tools such as custom scripts for faster address evidence collection.
 
 When I am off-chain, you can find me tending to my indoor plants, hitting the gym, or managing a pixelated sushi restaurant in *Dave the Diver*.
 
