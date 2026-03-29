@@ -6,11 +6,9 @@ Based in Taiwan. Native Mandarin, Advanced English.
 ---
 
 ### 🔍 About Me
-I am currently a bilingual Web3 Intelligence Analyst. After a decade in business operations, I transitioned to Web3 to combat the rising wave of crypto fraud. 
+Based in Taiwan, I am a bilingual Web3 Intelligence Analyst with a decade of experience in business operations. Driven by a personal mission to combat crypto fraud, I transitioned into the Web3 space, where I now combine self-taught investigative skills with Python and "vibe coding" to develop practical automation tools—such as custom scripts for efficient address evidence collection.
 
-I am self-taught in crypto crime investigation and leverage Python and vibe coding to develop tools such as custom scripts for faster address evidence collection.
-
-When I am off-chain, you can find me tending to my indoor plants, hitting the gym, or managing a pixelated sushi restaurant in *Dave the Diver*.
+When I am off-chain, you can find me tending to my indoor plants, hitting the gym, or managing a pixelated sushi restaurant in Dave the Diver.
 
 ---
 
